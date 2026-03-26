@@ -1,4 +1,4 @@
-name: CI Básico Python
+name: CI Básico Python4
 
 on:
   push:
